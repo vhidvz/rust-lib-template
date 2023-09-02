@@ -1,7 +1,21 @@
 [package]
 name = "rust-lib-template"
+description = "Rust library template"
 version = "0.1.0"
 edition = "2021"
+
+categories = [
+    "rust",
+    "rust::library"
+]
+authors = [
+    "Vahid V. <vhid.vz@gmail.com>",
+]
+
+keywords = ["rust", "library", "template"]
+homepage = "https://github.com/vhidvz/rust-lib-template"
+repository = "https://github.com/vhidvz/rust-lib-template.git"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
