@@ -1,3 +1,4 @@
 [alias]
 lint = "clippy --fix" # cargo lint
+xtask = "run --package xtask --"
 format = "fmt" # cargo format
