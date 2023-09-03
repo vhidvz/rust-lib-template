@@ -12,6 +12,7 @@ authors = ["Vahid V. <vhid.vz@gmail.com>"]
 categories = ["rust","rust::library"]
 
 keywords = ["rust", "library-template"]
+documentation = "https://docs.rs/rust-lib-template"
 homepage = "https://github.com/vhidvz/rust-lib-template"
 repository = "https://github.com/vhidvz/rust-lib-template.git"
 
