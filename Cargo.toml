@@ -4,16 +4,10 @@ description = "Rust library template"
 version = "0.1.0"
 edition = "2021"
 
-categories = [
-    "rust",
-    "rust::library"
-]
-authors = [
-    "Vahid V. <vhid.vz@gmail.com>",
-]
+authors = ["Vahid V. <vhid.vz@gmail.com>"]
 
-readme = "README.md"
-documentation = "https://docs.rs/bitflags"
+# https://crates.io/category_slugs
+categories = ["rust","rust::library"]
 
 keywords = ["rust", "library-template"]
 homepage = "https://github.com/vhidvz/rust-lib-template"
