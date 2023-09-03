@@ -1,15 +1,23 @@
-# rust-lib-template
+# Rust Lib - Template
 
-Rust library template
+## Prerequisites
 
 ```sh
 rustup component add clippy
 rustup component add rustfmt
 
-# .cargo/config.toml [alias]
-cargo lint
-cargo format
-
 # Debugging & Code-Coverage
 rustup component add llvm-tools
 ```
+
+## Commands
+
+Cargo alias commands
+
+```sh
+# .cargo/config.toml [alias]
+cargo lint
+cargo format
+```
+
+The `docs` Auto-Generate script is `docs.sh`.
