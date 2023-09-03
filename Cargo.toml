@@ -14,7 +14,6 @@ homepage = "https://github.com/vhidvz/rust-lib-template"
 repository = "https://github.com/vhidvz/rust-lib-template.git"
 
 license = "MIT"
-exclude = ["docs/", "docs.sh"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
