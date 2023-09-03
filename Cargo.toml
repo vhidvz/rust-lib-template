@@ -21,7 +21,7 @@ repository = "https://github.com/vhidvz/rust-lib-template.git"
 
 license = "MIT"
 exclude = ["/docs"]
-license-file = "LICENSE.txt"
+license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
