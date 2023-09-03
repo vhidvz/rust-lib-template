@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["rust_lib_template"];
