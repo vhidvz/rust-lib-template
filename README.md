@@ -1,7 +1,7 @@
 # Rust Lib - Template
 
-![MSRV][msrv-image]
 [![crates.io][crate-image]][crate-link]
+![MSRV][msrv-image]
 [![Documentation][doc-image]][doc-link]
 [![LICENSE][license-image]][license-link]
 [![codecov][codecov-image]][codecov-link]
