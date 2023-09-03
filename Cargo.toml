@@ -1,8 +1,10 @@
 [package]
 name = "rust-lib-template"
 description = "Rust library template"
-version = "0.1.0"
+
 edition = "2021"
+version = "0.1.0"
+rust-version = "1.68"
 
 authors = ["Vahid V. <vhid.vz@gmail.com>"]
 
