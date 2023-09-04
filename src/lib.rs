@@ -14,7 +14,6 @@ mod tests {
     use std::env;
 
     fn init() {
-        env_logger::init();
         dotenv::dotenv().ok();
 
         let dev = env::var("RUST_ENV")

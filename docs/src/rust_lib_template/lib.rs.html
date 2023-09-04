@@ -34,7 +34,6 @@
 <a href="#34" id="34">34</a>
 <a href="#35" id="35">35</a>
 <a href="#36" id="36">36</a>
-<a href="#37" id="37">37</a>
 </pre></div><pre class="rust"><code><span class="kw">extern crate </span>log;
 
 <span class="kw">pub fn </span>add(left: usize, right: usize) -&gt; usize {
@@ -51,7 +50,6 @@
     <span class="kw">use </span>std::env;
 
     <span class="kw">fn </span>init() {
-        env_logger::init();
         dotenv::dotenv().ok();
 
         <span class="kw">let </span>dev = env::var(<span class="string">&quot;RUST_ENV&quot;</span>)

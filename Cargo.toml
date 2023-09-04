@@ -3,7 +3,7 @@ name = "rust-lib-template"
 description = "Rust library template"
 
 edition = "2021"
-version = "1.0.2"
+version = "1.0.3"
 rust-version = "1.68"
 
 authors = ["Vahid V. <vhid.vz@gmail.com>"]
