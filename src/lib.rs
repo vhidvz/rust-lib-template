@@ -27,7 +27,7 @@ mod tests {
     }
 
     #[test]
-    fn it_works() {
+    fn test_add() {
         tests::init();
 
         let result = add(2, 2);
